@@ -10,6 +10,10 @@
 
 ## Use
 
+
+    implementation 'com.lovejjfg.blinds:blinds:lastedversion'
+
+
 xml:
 
         <com.lovejjfg.blinds.BlindsLayout
